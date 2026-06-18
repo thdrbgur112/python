@@ -1,0 +1,6 @@
+r = input("원의 반지름 입력> ")
+fr = float(r)
+print()
+print("반지름:  ",fr)
+print("둘레:  ",2*3.14*fr)
+print("넓이:  ",3.14*fr**2)
